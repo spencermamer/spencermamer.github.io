@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-This site is currently non-operational, and you should instead visit [www.spencermamer.com(http://www.spencermamer.com/ "SpencerMamer.com").
+This site is currently non-operational, and you should instead visit [www.spencermamer.com](http://www.spencermamer.com/ "SpencerMamer.com").
 
 ### Contact me
 
