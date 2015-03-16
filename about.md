@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Will add later
+**UNDER CONSTRUCTION**
 
 ### More Information
 
-**More information goes here**
+This site is currently non-operational, and you should instead visit [www.spencermamer.com(http://www.spencermamer.com/ "SpencerMamer.com").
 
 ### Contact me
 
