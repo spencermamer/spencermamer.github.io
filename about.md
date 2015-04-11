@@ -4,9 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-**UNDER CONSTRUCTION**
 
-### More Information
+## About Me 
 
 I am currently a M.D./Ph.D student at the University of Illinois at Urbana-Champaign in the Department of Bioengineering. My research focuses on cell signaling pathways important in new blood vessel formation-how these function normally, how they mis-function in various diseases, and how we could manipulate these processes to treat these disorders.
 
